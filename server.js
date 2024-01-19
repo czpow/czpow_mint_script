@@ -13,7 +13,7 @@ let mintContractAddress = "0xf22dc5c4ad81874333126ea68485c7300547ee17"
 //上级地址，mint时将使用该地址作为上级。（选填）请检查地址有效性
 let routeReferrer = ""
 //此处更换RPC节点，请使用有效的RPC节点。 参考网站: https://chainlist.org/chain/56
-const provider = new ethers.JsonRpcProvider('https://data-seed-prebsc-1-s2.bnbchain.org:8545'); 
+const provider = new ethers.JsonRpcProvider('https://binance.llamarpc.com'); 
 
 
 var server = app.listen(4201, '0.0.0.0', async () =>  {
