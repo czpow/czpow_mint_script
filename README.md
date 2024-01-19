@@ -10,12 +10,14 @@
 
 第三步
 WEIN+R打开CMD 命令行
-![image](https://github.com/czpow/czpow_mint_script/assets/157109154/e5d07f93-ef01-49d1-9248-0339cc5611ca)
 
-<img width="908" alt="image" src="https://github.com/czpow/czpow_mint_script/assets/157109154/671b2797-cbdf-4fd5-8f27-852e86279e1e">
+![image](https://github.com/czpow/czpow_mint_script/assets/157109154/47c48487-d575-4e47-a010-64cc5463370b)
+
 
 项目根目录使用：
 npm install 
+<img width="925" alt="image" src="https://github.com/czpow/czpow_mint_script/assets/157109154/b9bc735f-4d1f-402d-a933-18a93fd11d11">
+
 等待安装依赖成功之后
 在server.js中 填写私钥、RPC节点、上级地址等数据
 
