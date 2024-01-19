@@ -59,7 +59,10 @@ WEIN+R打开CMD 命令行，输入文件路径
 
 
 单个地址参数演示
+
 <img width="608" alt="image" src="https://github.com/czpow/czpow_mint_script/assets/157109154/c678c4a1-43c8-489e-8f9d-db6a1c421afc">
+
 多个地址参数演示
+
 <img width="647" alt="image" src="https://github.com/czpow/czpow_mint_script/assets/157109154/4452839f-fbe2-40f4-ae0b-db0e6b41e714">
 
