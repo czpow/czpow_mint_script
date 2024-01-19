@@ -47,7 +47,9 @@ WEIN+R打开CMD 命令行，输入文件路径
 第五步
 在server.js中 （js可用文本打开编辑保存）填写私钥、RPC节点、上级地址等数据
 <img width="773" alt="image" src="https://github.com/czpow/czpow_mint_script/assets/157109154/aa923ecb-afb9-4fb4-baaa-88c1457870d7">
+
 这是单个地址的配置
+
 <img width="656" alt="image" src="https://github.com/czpow/czpow_mint_script/assets/157109154/ed302088-59a6-455f-817c-12c3515cc608">
 
 第六步
